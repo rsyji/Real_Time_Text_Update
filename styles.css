@@ -2,3 +2,28 @@
     margin: 0;
     padding: 0;
 }
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 200px auto;
+    text-shadow: 1px 1px  2px black;
+}
+
+h1{
+    margin: 20px auto;
+    color: #da5b06;
+    text-shadow: 1px 1px  2px black;
+}
+
+input{
+    height: 20px;
+    width: 400px;
+    padding: 10px;
+    margin: 20px;
+}
+
+p{
+    font-weight: bolder;
+    margin-top: 20px;
+}
